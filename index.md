@@ -3,20 +3,22 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+I am Yongkang Zou, a master's student in Decision Informatics at Paris Dauphine-PSL, specializing in data mining and machine learning.
+Skilled in big data technologies and programming, I am seeking a Data Scientist internship to further my expertise.
 
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+# Professional Experience
+* Smart Gadget Home - Data Manager (Internship) (2023/07 ~ 2023/09)
+  * Product Database and E-commerce Site Management
+    * Responsible for regularly updating products on the e-commerce site, ensuring accuracy of descriptions and prices to maintain the site's appeal to customers.
+  * Sales Analysis and Inventory Optimization
+    * Used data analysis tools to review summer sales trends, identify popular products, and optimize inventory management by minimizing storage costs while meeting customer demand.
+* CITIC Securities - Financial Analyst Assistant (Internship) (2022/06 ~ 2022/09)
+  * Financial Analysis, Modeling, and Company Valuation
+    * Conducted in-depth analyses for Gemdale Group, including business valuation, real estate market and competition analysis, significantly contributing to the estimation of the company's value.
+  * Data Visualization
+    * Skilled in data visualization, creating charts and dashboards using tools like Excel to clearly and persuasively communicate analysis results.
 
 <br/>
 
