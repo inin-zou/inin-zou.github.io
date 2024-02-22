@@ -34,6 +34,14 @@ Skilled in big data technologies and programming, I am seeking a Data Scientist 
 
 <br/>
 
+# Skills
+* Languages: French (DALF C1), English (IELTS 7.0, TOEIC 935/990), Chinese (Native)
+* Programming Languages: Java, Python, R, SAS, PySpark, SQL, VBA, HTML, CSS, JavaScript, Linux, Scala, Ruby
+* IT Tools: Talend, Oracle Database, MATLAB, Apache NiFi, Apache Kafka, Apache Hadoop, Apache Storm, Apache Spark, PrestaShop, Bootstrap, Power BI, Tableau, MongoDB
+* Interests: Singer-songwriter with over 160,000 followers on Chinese social networks
+
+<br />
+
 # Interests
 I am interested in technology trends.  
 I'm not afraid to learn languages, but I enjoy using Python.  
