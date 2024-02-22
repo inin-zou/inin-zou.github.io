@@ -61,47 +61,47 @@ Skilled in big data technologies and programming, I am seeking a Data Scientist 
 
 ## M1 MIAGE Projects 2022/2023:
 ### Online Store Design (JavaScript, PHP) - March 2023
-* Dynamic Website Development
+  * Dynamic Website Development
   * Designed and developed a dynamic website as an online commerce platform.
 ### Apache Kafka + Hadoop + NiFi Integration (Apache Kafka, Hadoop, NiFi) - October 2022
-* Large-Scale Data Management
+  * Large-Scale Data Management
   * Designed and implemented an advanced integration between Apache Kafka, Hadoop, and NiFi technologies for efficient processing and management of massive volumes of data.
   * Established high-performance data pipelines, enabling real-time data collection, transformation, and optimized storage.
 ### Business Intelligence System Design (Talend, Oracle, Power BI) - October 2022-November 2022
-* Information Systems Construction and BI Modeling
+  * Information Systems Construction and BI Modeling
   * Built information systems for a bike rental company using Talend, followed by report creation with Power BI, addressing specific data set requests, datamart creation, and BI modeling.
 
 ## L3 MIAGE Projects 2021/2022:
 ### Study on Specialists Doctors in Midi-Pyrénées (1999) - December 2021-January 2022
-* Statistical Analysis and Data Research
+  * Statistical Analysis and Data Research
   * Conducted an in-depth analysis of data from a sample of 500 specialist doctors in Midi-Pyrénées (1999) using R; identified relevant variables, performed a correlation analysis
 
 ## Virtual Internship Projects:
 ### BCG Digital Transformation on Drilling - November 2023
-* Application Development and Market Analysis
-  * Designed a new application using modern frameworks to address the challenge of declining sales at CoffeeCo.
-  * Conducted a data-driven market analysis to identify emerging trends in improving customer engagement through applications.
-* Data Management and Agile Methodologies
-  * Implemented a data management strategy to deeply analyze customer pain points and formulate evidence-based recommendations.
-  * Used agile project management methodologies, including Kanban with Trello, for effective application feature management.
+  * Application Development and Market Analysis
+    * Designed a new application using modern frameworks to address the challenge of declining sales at CoffeeCo.
+    * Conducted a data-driven market analysis to identify emerging trends in improving customer engagement through applications.
+  * Data Management and Agile Methodologies
+    * Implemented a data management strategy to deeply analyze customer pain points and formulate evidence-based recommendations.
+    * Used agile project management methodologies, including Kanban with Trello, for effective application feature management.
 ### JPMorgan Chase & Co. Quantitative Research on Drilling - November 2023
-* Quantitative Analysis and Modeling
-  * Applied advanced quantitative research methods to perform detailed analysis of a loan portfolio to estimate customer default probability.
-  * Utilized dynamic programming to convert FICO scores into categorical data, demonstrating mastery of data modeling techniques.
-* Statistical Models and Machine Learning
-  * Developed and implemented sophisticated statistical models to predict defaults using machine learning and automatic learning algorithms.
+  * Quantitative Analysis and Modeling
+    * Applied advanced quantitative research methods to perform detailed analysis of a loan portfolio to estimate customer default probability.
+    * Utilized dynamic programming to convert FICO scores into categorical data, demonstrating mastery of data modeling techniques.
+  * Statistical Models and Machine Learning
+    * Developed and implemented sophisticated statistical models to predict defaults using machine learning and automatic learning algorithms.
 ### PwC Digital Intelligence on Drilling - November 2023
-* Data Modeling and Advanced Analysis
-  * Designed and deployed complex classification models using Python and advanced libraries, demonstrating advanced expertise in statistical modeling and data analysis.
-  * Developed an evaluation document based on advanced quantitative analysis of historical data, including advanced financial modeling techniques for cash flow forecasting and present value determination.
-* Data Strategy and Medical Analysis
-  * Collaborated on a data strategy proposal, including in-depth statistical analysis of medical data, drug comparisons, and suggesting new research avenues based on advanced data processing methods.
+  * Data Modeling and Advanced Analysis
+    * Designed and deployed complex classification models using Python and advanced libraries, demonstrating advanced expertise in statistical modeling and data analysis.
+    * Developed an evaluation document based on advanced quantitative analysis of historical data, including advanced financial modeling techniques for cash flow forecasting and present value determination.
+  * Data Strategy and Medical Analysis
+    * Collaborated on a data strategy proposal, including in-depth statistical analysis of medical data, drug comparisons, and suggesting new research avenues based on advanced data processing methods.
 ### BCG X - Data Science Experience - November 2023
-* Advanced Data Analysis and Predictive Modeling
-  * Applied advanced data science methods to analyze PowerCo data, including data mining techniques to assess customer churn probability.
-  * Implemented cutting-edge predictive models, including random forest techniques, demonstrating mastery of statistical modeling and predictive analysis methods.
-* Communication and Report Writing
-  * Communicated results to the client through detailed executive summaries based on advanced quantitative analyses.
+  * Advanced Data Analysis and Predictive Modeling
+    * Applied advanced data science methods to analyze PowerCo data, including data mining techniques to assess customer churn probability.
+    * Implemented cutting-edge predictive models, including random forest techniques, demonstrating mastery of statistical modeling and predictive analysis methods.
+  * Communication and Report Writing
+    * Communicated results to the client through detailed executive summaries based on advanced quantitative analyses.
 
 <br />
 
