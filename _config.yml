@@ -5,9 +5,9 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
+  name: Yongkang ZOU
   desc: Hello nice to meet you
-  email: ksub0912@gmail.com
+  email: yongkang.zou1999@gmail.com
   selfie: assets/img/profile.jpg
 
 # social
@@ -22,7 +22,7 @@ social:
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin: https://www.linkedin.com/in/yongkang-zou/
   pinterest:
   reddit:
   soundcloud:
