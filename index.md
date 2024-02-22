@@ -23,9 +23,9 @@ Skilled in big data technologies and programming, I am seeking a Data Scientist 
 <br/>
 
 # Education
-* Université Paris Dauphine - PSL, M2 MIAGE - Decision Informatics (2023/09 ~ 2024/08)
+* Université Paris Dauphine - PSL, M2 MIAGE - Business Information Systems and Data Analysis  (2023/09 ~ 2024/08)
   * Program: Data Mining, Systems, Languages and Paradigms for Big Data, Data Warehouses...
-* Université Paris-Saclay, M1 MIAGE - Decision Informatics (2022/09 ~ 2023/08)
+* Université Paris-Saclay, M1 MIAGE - Business Information Systems and Data Analysis  (2022/09 ~ 2023/08)
   * Program: Operational Research, Development of Decisional Information Systems...
 * Université Toulouse 1 Capitole, L3 MIAGE (2021/09 ~ 2022/08)
   * Program: Statistics, Computer Systems, Structured Data, Machine Learning...
