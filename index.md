@@ -84,18 +84,21 @@ Skilled in big data technologies and programming, I am seeking a Data Scientist 
   * Data Management and Agile Methodologies
     * Implemented a data management strategy to deeply analyze customer pain points and formulate evidence-based recommendations.
     * Used agile project management methodologies, including Kanban with Trello, for effective application feature management.
+
 ### JPMorgan Chase & Co. Quantitative Research on Drilling - November 2023
   * Quantitative Analysis and Modeling
     * Applied advanced quantitative research methods to perform detailed analysis of a loan portfolio to estimate customer default probability.
     * Utilized dynamic programming to convert FICO scores into categorical data, demonstrating mastery of data modeling techniques.
   * Statistical Models and Machine Learning
     * Developed and implemented sophisticated statistical models to predict defaults using machine learning and automatic learning algorithms.
+
 ### PwC Digital Intelligence on Drilling - November 2023
   * Data Modeling and Advanced Analysis
     * Designed and deployed complex classification models using Python and advanced libraries, demonstrating advanced expertise in statistical modeling and data analysis.
     * Developed an evaluation document based on advanced quantitative analysis of historical data, including advanced financial modeling techniques for cash flow forecasting and present value determination.
   * Data Strategy and Medical Analysis
     * Collaborated on a data strategy proposal, including in-depth statistical analysis of medical data, drug comparisons, and suggesting new research avenues based on advanced data processing methods.
+ 
 ### BCG X - Data Science Experience - November 2023
   * Advanced Data Analysis and Predictive Modeling
     * Applied advanced data science methods to analyze PowerCo data, including data mining techniques to assess customer churn probability.
